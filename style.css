@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    color: #f3f0ee;
+    align-items: center;
+    padding: 15px 40px;
+    background: #0f0f0f;
+
+}
+
+.logo {
+    margin: 0;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+nav {
+    display: flex;
+    gap: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #f3f0ee;
+    font-weight: bold;
+}
+
+.school-name {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+}
