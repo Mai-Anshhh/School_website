@@ -20,6 +20,13 @@ header {
     margin: 0;
 }
 
+.logo a {
+    text-decoration: none;
+    color: #f3f0ee;
+    font-weight: bold;
+    font-size: 32px;
+}
+
 .nav-right {
     display: flex;
     align-items: center;
@@ -37,13 +44,6 @@ nav a {
     font-weight: bold;
 }
 
-.school-name {
-    font-size: 24px;
-    font-weight: bold;
-    padding: 20px;
-    text-align: center;
-}
-
 .hero {
     display: flex;
     width: 100%;
@@ -54,26 +54,92 @@ nav a {
     width: 40%;
     height: 100%;
     background-color: #fffefd;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-content {
+    width: 80%;
+    text-align: left;
+    justify-content: left;
+    margin-left: 20%;
+    margin-top: 30%;
+}
+
+.tagline {
+    font-size: 15px;
+    color: #5e5e5e;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    padding-left: 10px;
+    margin: 0px;
 }
 
 .name {
+    margin: 0;
     font-size: 80px;
     font-weight: bold;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', sans-serif;
     color: #2d37c7;
-    text-align: center;
-    margin-top: 350px;
+}
+
+.school-name {
+    margin: 0;
+    padding: 0;
+    font-size: 55px;
+    color: #000;
 }
 
 .desc {
     font-size: 24px;
-    text-align: center;
     margin-top: 20px;
+    padding-right: 100px;
 }
 
-.left span {
-    font-size: 55px;
+.cta {
+    margin-top: 30px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2d37c7;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.explore-btn {
+    display: inline-block;
+    padding: 10px 20px;
     color: #000000;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 10px;
+}
+
+.hero-content hr {
+    width: 80%;
+    margin: 20px 0;
+}
+
+.stats {
+    margin-top: 30px;
+    list-style: none;
+    padding: 0;
+}
+
+.stats li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 18px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode';
+    margin-bottom: 10px;
+}
+
+.stat-label {
+    font-weight: bold;
+    color: #2d37c7;
 }
 
 .right {
