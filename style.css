@@ -1,10 +1,11 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+* {
     box-sizing: border-box;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
 
 header {
     display: flex;
@@ -13,7 +14,6 @@ header {
     align-items: center;
     padding: 15px 40px;
     background: #0f0f0f;
-
 }
 
 .logo {
@@ -42,4 +42,93 @@ nav a {
     font-weight: bold;
     padding: 20px;
     text-align: center;
+}
+
+.hero {
+    display: flex;
+    width: 100%;
+    height: calc(100vh - 67px);
+}
+
+.left {
+    width: 40%;
+    height: 100%;
+    background-color: #fffefd;
+}
+
+.name {
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #2d37c7;
+    text-align: center;
+    margin-top: 350px;
+}
+
+.desc {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.left span {
+    font-size: 55px;
+    color: #000000;
+}
+
+.right {
+    width: 60%;
+    height: 100%;
+    background-color: #181717;
+}
+
+.slideshow {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.wrapper {
+    display: flex;
+    width: 700%;
+    height: 100%;
+    animation: slide 21s infinite;
+}
+
+.wrapper img {
+    width: calc(100% / 7);
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    flex-shrink: 0;
+}
+
+@keyframes slide {
+    0%, 14% {
+        transform: translateX(0);
+    }
+
+    16%, 30% {
+        transform: translateX(calc(-100% / 7));
+    }
+
+    32%, 46% {
+        transform: translateX(calc(-200% / 7));
+    }
+
+    48%, 62% {
+        transform: translateX(calc(-300% / 7));
+    }
+
+    64%, 78% {
+        transform: translateX(calc(-400% / 7));
+    }
+
+    80%, 94% {
+        transform: translateX(calc(-500% / 7));
+    }
+
+    100% {
+        transform: translateX(0);
+    }
 }
