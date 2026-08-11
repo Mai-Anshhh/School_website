@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    color: #f3f0ee;
+    align-items: center;
+    padding: 15px 40px;
+    background: #0f0f0f;
+}
+
+.logo {
+    margin: 0;
+}
+
+.logo a {
+    text-decoration: none;
+    color: #f3f0ee;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+nav {
+    display: flex;
+    gap: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #f3f0ee;
+    font-weight: bold;
+}
+
+.faculty-container {
+    padding: 5%;
+}
+
+.hos {
+    padding: auto;
+}
+
+.hos li {
+    display: flex;
+    max-width: 450px;
+    max-height: fit-content;
+    list-style: none;
+    background-color: #0f0f0f;
+    border: #0f0f0f 2px solid;
+    border-radius: 20px;
+    color: #f3f0ee;
+    padding: 20px;
+    font-size: 20px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hos li:hover {
+    transform: translateY(-4px);
+}
+
+.hos li img {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    max-width: 200px;
+    max-height: 400px;
+    border-radius: 20px;
+}
+
+.hos li h1 {
+    text-align: left;
+    justify-content: center;
+}
+
+.teachers {
+    padding: auto;
+}
+
+.teachers ul {
+    padding: 0px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.teachers li {
+    display: flex;
+    width: fit-content;
+    height: inherit;
+    padding: 20px;
+    list-style: none;
+    background-color: rgb(70, 63, 54);
+    border-radius: 20px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.teachers li:hover {
+    transform: translateY(-4px);
+}
+
+.teachers img {
+    padding: 1%;
+    width: 200px;
+    height: inherit;
+}
+
+.teachers a {
+    text-decoration: none;
+    color: #f3f0ee;
+}
+
