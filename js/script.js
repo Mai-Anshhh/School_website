@@ -1,6 +1,6 @@
 let teachers = [];
 
-fetch("teachers.json")
+fetch("json/teachers.json")
     .then(res => res.json())
     .then(data => {
         teachers = data;
@@ -19,10 +19,12 @@ function renderTeachers(teacherArray) {
             <li>
                 <a href="${teacher.link}" target="_blank">
                     <img src="${teacher.image}">
+                    <div>
                     <h2>${teacher.name}</h2>
                     <p>${teacher.description}</p>
-                    <p>Experience: ${teacher.Experience}</p>
-                    <p>Qualification: ${teacher.Qualification}</p>
+                    <p>Post: ${teacher.Post}</p>
+                    <p>Classes: ${teacher.classes}</p>
+                    </div>
                 </a>
             </li>
         `;

@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Mr. Jagdish",
+        "id": "jagdish-economics",
+        "subject": "Economics",
+        "Post": "Lecturer Economics",
+        "image": "images/teachers/jagdish.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Rahul Kumar",
+        "id": "rahul-commerce",
+        "subject": "Commerce",
+        "Post": "Lecturer Commerce",
+        "image": "images/teachers/rahul_kumar.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Sanjeev Kumar",
+        "id": "sanjeev-sociology",
+        "subject": "Sociology",
+        "Post": "Lecturer Sociology",
+        "image": "images/teachers/sanjeev_kumar.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Paramjeet Bhatia",
+        "id": "bhatia-english",
+        "subject": "English",
+        "Post": "PGT English",
+        "image": "images/teachers/paramjeet_bhatia.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Parth Sharma",
+        "id": "parth-english",
+        "subject": "English",
+        "link": "teacher.html",
+        "Post": "Lecturer English",
+        "image": "images/teachers/parth_sharma.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Manisha Maithani",
+        "id": "manisha-HomeScience",
+        "subject": "Home Science",
+        "Post": "Lecturer Home Science",
+        "image": "images/teachers/manisha_maithani.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Rajni",
+        "id": "rajni-PhysicalEducation",
+        "subject": "Physical Education",
+        "Post": "Lecturer Physical Education",
+        "image": "images/teachers/rajni.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. K.M Chaudhary",
+        "id": "kmc-hindi",
+        "subject": "Hindi",
+        "Post": "Lecturer Hindi",
+        "image": "images/teachers/kmc.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Punit Kumar",
+        "id": "punit-geography",
+        "subject": "Geography",
+        "Post": "Lecturer Geography",
+        "image": "images/teachers/punit_kumar.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Sheetal",
+        "id": "sheetal-politicalScience",
+        "subject": "Political Science",
+        "Post": "Lecturer Political Science",
+        "image": "images/teachers/sheetal.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Bhagat Singh",
+        "id": "bhagat-chemistry",
+        "subject": "Chemistry",
+        "Post": "Lecturer Chemistry",
+        "image": "images/teachers/bhagat_singh.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms Sunita Kumari",
+        "id": "sunita-physics",
+        "subject": "Physics",
+        "Post": "Lecturer Physics",
+        "image": "images/teachers/sunita_kumari.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Dr. Atul Kr. Sharma",
+        "id": "atul-biology",
+        "subject": "Biology",
+        "Post": "Lecturer Biology",
+        "image": "images/teachers/atul_sharma.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Sushant Kushwaha",
+        "id": "sushant-computerScience",
+        "subject": "Computer Science",
+        "Post": "Lecturer Computer Science",
+        "image": "images/teachers/sushant_kushwaha.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr Mohit Garg",
+        "id": "mohit-computerScience",
+        "subject": "Computer Science",
+        "Post": "Lecturer Computer Science",
+        "image": "images/teachers/mohit_garg.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Niraj Kumar",
+        "id": "niraj-computerScience",
+        "subject": "Computer Science",
+        "Post": "TGT Computer Science",
+        "image": "images/teachers/niraj_kumar.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Kapil Sharma",
+        "id": "kapil-Science",
+        "subject": "Science",
+        "Post": "TGT Science",
+        "image": "images/teachers/kapil_sharma.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Nidhi",
+        "id": "nidhi-science",
+        "subject": "Science",
+        "Post": "TGT Science",
+        "image": "images/teachers/nidhi.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Divya",
+        "id": "divya-mathematics",
+        "subject": "Mathematics",
+        "Post": "TGT Mathematics",
+        "image": "images/teachers/divya.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Vandana Aggarwal",
+        "id": "vandana-mathematics",
+        "subject": "Mathematics",
+        "Post": "TGT Mathematics",
+        "image": "images/teachers/vandana_aggarwal.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Anjali Sharma",
+        "id": "anjali-english",
+        "subject": "English",
+        "Post": "TGT English",
+        "image": "images/teachers/anjali.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Radhika Malik",
+        "id": "radhika-english",
+        "subject": "English",
+        "Post": "TGT English",
+        "image": "images/teachers/radhika_malik.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Manoj Kr Srivastav",
+        "id": "manoj-hindi",
+        "subject": "Hindi",
+        "Post": "TGT Hindi",
+        "image": "images/teachers/manoj_srivastav.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Shashi Bhushan",
+        "id": "shashi-hindi",
+        "subject": "Hindi",
+        "Post": "TGT Hindi",
+        "image": "images/teachers/shashi_bhushan.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Amol Mani Mishra",
+        "id": "amol-sanskrit",
+        "subject": "Sanskrit",
+        "Post": "TGT Sanskrit",
+        "image": "images/teachers/amol_mishra.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Sikha",
+        "id": "sikha-sanskrit",
+        "subject": "Sanskrit",
+        "Post": "TGT Sanskrit",
+        "image": "images/teachers/sikha.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr Sukhwinder Singh",
+        "id": "sukhwinder-punjabi",
+        "subject": "Punjabi",
+        "Post": "TGT Punjabi",
+        "image": "images/teachers/sukhwinder_singh.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms Shabnam",
+        "id": "shabnam-urdu",
+        "subject": "Urdu",
+        "Post": "TGT Urdu",
+        "image": "images/teachers/shabnam.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Atul Kumar",
+        "id": "atul-SocialScience",
+        "subject": "Social Science",
+        "Post": "TGT Social Science",
+        "image": "images/teachers/atul_kumar.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Pankaj Jha",
+        "id": "pankaj-SocialScience",
+        "subject": "Social Science",
+        "Post": "TGT Social Science",
+        "image": "images/teachers/pankaj_jha.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr Bhavra Ram",
+        "id": "bhavra-evgc",
+        "subject": "EVGC",
+        "Post": "---",
+        "image": "images/teachers/bhavra_ram.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "ms Jyoti Gupta",
+        "id": "jyoti-spanish",
+        "subject": "Spanish",
+        "Post": "---",
+        "image": "images/teachers/jyoti_gupta.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. ---",
+        "id": "----French",
+        "subject": "French",
+        "Post": "---",
+        "image": "images/teachers/---.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms. Charu",
+        "id": "charu-domesticScience",
+        "subject": "Domestic Science",
+        "Post": "TGT Domestic Science",
+        "image": "images/teachers/charu.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms Bhavna Bharti",
+        "id": "bhavna-drawing",
+        "subject": "Drawing",
+        "Post": "TGT Drawing",
+        "image": "images/teachers/bhavna_bharti.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Dr. Nitin Kumar",
+        "id": "nitin-music",
+        "subject": "Music",
+        "Post": "TGT Music",
+        "image": "images/teachers/nitin_kumar.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Ms Lakshmi Ravindran",
+        "id": "lakshmi-librarian",
+        "subject": "Librarian",
+        "Post": "Librarian",
+        "image": "images/teachers/lakshmi_ravindran.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Himanshu Chaudhary",
+        "id": "himanshu-physicalEducation",
+        "subject": "Physical Education",
+        "Post": "PET",
+        "image": "images/teachers/himanshu_chaudhary.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    },
+
+    {
+        "name": "Mr. Vaibhav",
+        "id": "vaibhav-specialEducation",
+        "subject": "Special Education",
+        "Post": "TGT Special Education",
+        "image": "images/teachers/vaibhav.jpg",
+        "classes": "X-A, X-B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quia sint vel qui ea, unde exercitationem veniam optio veritatis. A, sed harum."
+    }
+]

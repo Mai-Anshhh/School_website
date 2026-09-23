@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Inter', sans-serif;
     margin: 0;
 }
 
@@ -27,31 +27,42 @@ header {
     font-size: 32px;
 }
 
-.nav-right {
-    display: flex;
-    align-items: center;
-    gap: 30px;
+.main {
+    margin-top: 100px;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
-nav {
-    display: flex;
-    gap: 50px;
+.profile-container {
+  display: flex;
+  gap: 80px;
+  align-items: start;
 }
 
-nav a {
-    text-decoration: none;
-    color: #f3f0ee;
-    font-weight: bold;
+.profile {
+  width: 300px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 12px;
 }
 
-.about {
-    display: flex;
-    padding: 20px;
+.desc {
+    margin: 0%;
 }
 
-.about img {
-    padding: 0;
-    margin: 20px;
-    width: 200px;
-    height: inherit;
+.desc h1 {
+  font-size: 3.5rem;
+  margin-bottom: .4rem;
+}
+
+.desc h5 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  opacity: .8;
+}
+
+.desc p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 1rem;
 }

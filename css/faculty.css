@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Inter', sans-serif;
     margin: 0;
 }
 
@@ -49,7 +49,7 @@ nav a {
 }
 
 .hos {
-    padding: auto;
+    padding: 0;
 }
 
 .hos li {
@@ -58,7 +58,7 @@ nav a {
     max-height: fit-content;
     list-style: none;
     background-color: #0f0f0f;
-    border: #0f0f0f 2px solid;
+    border: #0f0f0f px solid;
     border-radius: 20px;
     color: #f3f0ee;
     padding: 20px;
@@ -91,7 +91,8 @@ nav a {
 .teachers ul {
     padding: 0px;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
 }
 
 .teachers li {
@@ -113,6 +114,8 @@ nav a {
     padding: 1%;
     width: 200px;
     height: inherit;
+    border-radius: 20px;
+    object-fit: cover;
 }
 
 .teachers a {
@@ -120,3 +123,7 @@ nav a {
     color: #f3f0ee;
 }
 
+#teacher-list a {
+    display: flex;
+    gap: 20px;
+}
